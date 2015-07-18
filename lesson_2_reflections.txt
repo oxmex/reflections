@@ -1,0 +1,8 @@
+git log
+git checkout
+git diff
+ls
+cd
+ls -a
+git init
+git status

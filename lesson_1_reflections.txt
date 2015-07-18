@@ -1,0 +1,4 @@
+1 - How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Com diff é possivel comparar as duas versoes e achar diferenças em suas estruturas que podem ser a causa do bug
+2 - How could having easy access to the entire history of a file make you a more efficient programmer in the log term?
+Assim eu poderia checar passo a passo o que foi alterado com o passar do tempo no programa, podendo identificar erros com mais facilidade
